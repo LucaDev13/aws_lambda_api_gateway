@@ -1,0 +1,6 @@
+requests
+fastapi
+uvicorn
+mangum
+pytest
+pytest-mock
