@@ -74,7 +74,7 @@ The SAM CLI reads the application template to determine the API's routes and the
           Type: Api
           Properties:
             Path: /service
-            Method: get, post
+            Method: GET
 ```
 
 ## Add a resource to your application
